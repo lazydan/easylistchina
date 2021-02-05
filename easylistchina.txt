@@ -7425,15 +7425,6 @@ _yad_jsonp_
 ||newume.com/v1/data/ume-
 ||newyx.net^*/down_yd.js
 ||nex.163.com/q?
-||nfmovies.com/pic/tu/*_863x59.
-||nfmovies.com/pic/tu/*_banner
-||nfmovies.com/pic/tu/a191124002.
-||nfmovies.com/pic/tu/a191124003.
-||nfmovies.com/pic/tu/a191124004.
-||nfmovies.com/pic/tu/a200304_1170x87.png
-||nfmovies.com/pic/tu/ad
-||nfmovies.com/pic/tu/banner
-||nfmovies.com/static/*.jpg
 ||nfydd.com/template/wap1/js/dd.js
 ||ningmengzhibo.com/ement/beforeSearchEment.action
 ||nirentang.com^
@@ -14209,7 +14200,6 @@ mydrivers.com#?#.news_info > p:last-of-type:-abp-has(> br + a)
 mydrivers.com#?#.news_info > p:nth-last-of-type(2):-abp-has(> br + a)
 news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
-nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
 nfstar.net#?#.myui-panel-bg:-abp-has(strong:-abp-contains(广告))
 china.com##object[width="360"][height="300"]
 sina.com.cn##p + .article-video
@@ -14345,7 +14335,6 @@ chanet.com.cn#@##ad_content
 dpp.org.tw#@##ad_small
 tt1069.com#@##adbrite
 abbao.cn,tt1069.com,xietui.com#@##adcontent
-nfmovies.com#@##adright
 hongrentao.cc,houhuayuan.pink,mcfuns.com.tw,mrmad.com.tw,myself-bbs.com,paltv.top,pbhz.com,sportsyeah.hk,ugediao.com,xingkbjm.com,youneed.win,zhaoze.party,zhuihd.com#@##adsense
 wenku8.net#@##adtop
 union.58.com#@##advertise
